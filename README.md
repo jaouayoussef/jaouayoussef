@@ -6,19 +6,13 @@
 - 🌱 I’m currently learning Symfony 4 and JavaFX
 - ⚡ Fun fact: I enjoy Cooking! 
 
-### Connect with me:
+### Find me around the web 🌎
 
-[![facebook](./img/facebook-light.svg)](https://www.facebook.com/profile.php?id=100009298734153#gh-light-mode-only)
-[![facebook](./img/facebook-dark.svg)](https://www.facebook.com/profile.php?id=100009298734153#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![twitter](./img/twitter-light.svg)](https://twitter.com/youssefjaoua2#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/youssefjaoua2#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/youssef-jaoua-b74b47162/#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/youssef-jaoua-b74b47162/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](https://www.instagram.com/jaoua_youssef/#gh-light-mode-only)
-[![instagram](./img/instagram-dark.svg)](https://www.instagram.com/jaoua_youssef/#gh-dark-mode-only)
+<a href="https://github.com/jaouayoussef"><img align="left" alt="GitHub" width="22px" src="https://github.com/LindaOuer/LindaOuer/blob/main/github.svg" style="color:white" /></a>
+<a href="https://twitter.com/youssefjaoua2"><img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" /></a>
+<a href="https://www.linkedin.com/in/youssef-jaoua-b74b47162/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/jaoua_youssef/"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+
 
 ### Languages and Tools:
 
