@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[![website](./img/facebook-light.svg)](https://www.facebook.com/profile.php?id=100009298734153#gh-light-mode-only)
+(./img/facebook-light.svg)](https://www.facebook.com/profile.php?id=100009298734153#gh-light-mode-only)
 [![website](./img/facebook-dark.svg)](https://www.facebook.com/profile.php?id=100009298734153#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/youssefjaoua2#gh-light-mode-only)
