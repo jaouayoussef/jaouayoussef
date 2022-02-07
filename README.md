@@ -9,16 +9,12 @@
 ### Connect with me:
 
 [![website](./img/facebook-light.svg)](https://www.facebook.com/profile.php?id=100009298734153#gh-light-mode-only)
-[![website](./img/facebook-dark.svg)](https://www.facebook.com/profile.php?id=100009298734153#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/youssefjaoua2#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/youssefjaoua2#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/youssef-jaoua-b74b47162/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/youssef-jaoua-b74b47162/#gh-dark-mode-only)
+[![website](./img/linkedin.svg)](https://www.linkedin.com/in/youssef-jaoua-b74b47162/)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/jaoua_youssef/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/jaoua_youssef/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
