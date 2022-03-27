@@ -38,3 +38,14 @@
 [instagram]: https://www.instagram.com/jaoua_youssef/
 [linkedin]: https://www.linkedin.com/in/youssef-jaoua-b74b47162/
 
+
+<p align="center">
+  <a href="https://github.com/jaouayoussef">
+    <img src="https://github-readme-stats.vercel.app/api?username=jaouayoussef&count_private=true&hide_border=true&show_icons=true" alt="youssef's github stats">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/jaouayoussef">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaouayoussef&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="youssef's github stats">
+  </a>
+</p>
