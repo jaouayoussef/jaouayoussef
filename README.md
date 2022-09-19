@@ -49,6 +49,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaouayoussef&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="youssef's github stats">
   </a>
 </p>
-
-![Language Used](https://raw.githubusercontent.com/ahmad4fifz/github-stats/master/generated/languages.svg)
+<p align="center">
+    ![Language Used](https://raw.githubusercontent.com/jaouayoussef/github-stats/master/generated/languages.svg)
+  </a>
+</p>
 
