@@ -50,7 +50,6 @@
   </a>
 </p>
 <p align="center">
-    ![Language Used](https://raw.githubusercontent.com/jaouayoussef/github-stats/master/generated/languages.svg)
-  </a>
+  
 </p>
 
