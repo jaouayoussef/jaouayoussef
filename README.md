@@ -50,4 +50,5 @@
   </a>
 </p>
 
+![Language Used](https://raw.githubusercontent.com/ahmad4fifz/github-stats/master/generated/languages.svg)
 
