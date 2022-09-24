@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **youssef.jaoua@esprit.tn**
 
-- ⚡ Fun fact **I enjoy Cooking**
+- ⚡ Fun fact **I enjoy Cooking!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
