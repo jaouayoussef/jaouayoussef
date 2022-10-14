@@ -24,6 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaouayoussef&show_icons=true&locale=en&layout=compact" alt="jaouayoussef" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaouayoussef&show_icons=true&locale=en" alt="jaouayoussef" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaouayoussef&" alt="jaouayoussef" /></p>
