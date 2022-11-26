@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/youssefjaoua2" target="blank"><img src="https://img.shields.io/twitter/follow/youssefjaoua2?logo=twitter&style=for-the-badge" alt="youssefjaoua2" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin, C#, Spring**
+- 🌱 I’m currently learning **Kotlin, C#, Spring, NodeJs**
 
 - 📫 How to reach me **youssef.jaoua@esprit.tn**
 
