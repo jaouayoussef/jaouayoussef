@@ -3,18 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaouayoussef&label=Profile%20views&color=0e75b6&style=flat" alt="jaouayoussef" /> </p>
 
-<p align="left">
-  <a href="https://twitter.com/youssefjaoua2" target="blank">
-    <img src="https://img.shields.io/twitter/follow/youssefjaoua2?logo=twitter&style=for-the-badge" alt="youssefjaoua2" />
-  </a>
-  <a href="https://www.linkedin.com/in/jaouayoussef/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://youssefjaoua.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Website-%23FF5733?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Website" height="30" width="100"/>
-  </a>
-</p>
-
 ---
 
 ### About Me
