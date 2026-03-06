@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Youssef Jaoua</h1>
 <h3 align="center">Quality Assurance Engineer | Software Testing Enthusiast | Learning Appium</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaouayoussef&label=Profile%20views&color=0e75b6&style=flat" alt="jaouayoussef" /> </p>
-
 ---
 
 ### About Me
@@ -36,4 +34,5 @@ I enjoy cooking! 🍳
 <p align="left">
 <a href="https://www.linkedin.com/in/jaouayoussef/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://youssefjaoua.com" target="blank"><img src="https://img.shields.io/badge/Website-%23FF5733.svg?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Website"/></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaouayoussef&label=Profile%20views&color=0e75b6&style=flat" alt="jaouayoussef" /> </p>
 </p>
