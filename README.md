@@ -11,7 +11,6 @@ After obtaining my engineering degree in Computer Science, I began my career as 
 ### 📫 Contact
 - Email: **youssef.jaoua@outlook.com**  
 - Website: **[youssefjaoua.com](https://youssefjaoua.com)**  
-- Phone: **+216 20737473**  
 - Location: **Tunisia**  
 
 ---
